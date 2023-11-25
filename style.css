@@ -74,7 +74,7 @@ nav .logo-image img{
     border-radius: 50%;
 }
 
-nav .logo-name .logo-name{
+nav .logo-name .logo_name{
     font-size: 12px;
     font-weight: 600;
     color: var(--text-color);
@@ -82,7 +82,7 @@ nav .logo-name .logo-name{
     transition: var(--tran-05);
 }
 
-nav.close .logo-name{
+nav.close .logo_name{
     opacity: 0;
     pointer-events: none;
 }
